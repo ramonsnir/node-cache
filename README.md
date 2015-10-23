@@ -1,3 +1,5 @@
+# DEPRECATED. Use https://github.com/ptarjan/node-cache
+
 # node-cache
 
 A simple in-memory cache for node.js
